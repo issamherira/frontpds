@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pdsmarketplace-dev-92758-authRole",
+      "UnauthRoleArn": "arn:aws:iam::601312710161:role/amplify-pdsmarketplace-dev-92758-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::601312710161:role/amplify-pdsmarketplace-dev-92758-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pdsmarketplace-dev-92758-deployment",
+      "UnauthRoleName": "amplify-pdsmarketplace-dev-92758-unauthRole",
+      "StackName": "amplify-pdsmarketplace-dev-92758",
+      "StackId": "arn:aws:cloudformation:us-east-1:601312710161:stack/amplify-pdsmarketplace-dev-92758/f1c3a2b0-6081-11eb-8794-0acf59e535ed",
+      "AmplifyAppId": "d15jkrwkm8gtm4"
+    }
+  },
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pdsmarketplace-staging-92630-authRole",
+      "UnauthRoleArn": "arn:aws:iam::601312710161:role/amplify-pdsmarketplace-staging-92630-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::601312710161:role/amplify-pdsmarketplace-staging-92630-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pdsmarketplace-staging-92630-deployment",
+      "UnauthRoleName": "amplify-pdsmarketplace-staging-92630-unauthRole",
+      "StackName": "amplify-pdsmarketplace-staging-92630",
+      "StackId": "arn:aws:cloudformation:us-east-1:601312710161:stack/amplify-pdsmarketplace-staging-92630/bd9c5900-6081-11eb-ae4e-126c97cb5bc1",
+      "AmplifyAppId": "d15jkrwkm8gtm4"
+    },
+    "categories": {
+      "auth": {
+        "cognito5089a17d": {}
+      }
+    }
+  }
+}
